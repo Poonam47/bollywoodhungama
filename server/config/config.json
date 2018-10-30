@@ -1,0 +1,9 @@
+{
+    "PORT": 7000,
+    "mysql": {
+        "host": "54.254.131.27",
+        "user": "poonam",
+        "password": "poonam@1234",
+        "database": "beta_bollywoodhungama_com"
+    }
+}
