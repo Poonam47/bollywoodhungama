@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Poonam Patel",
@@ -12,5 +13,7 @@
     "express": "^4.16.4",
     "package-lock.json": "^1.0.0",
     "rm": "^0.1.8"
+  },"engines": {
+    "node": "11.0.0"
   }
 }
