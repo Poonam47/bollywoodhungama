@@ -10,9 +10,7 @@
   "author": "Poonam Patel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "package-lock.json": "^1.0.0",
-    "rm": "^0.1.8"
+    "express": "^4.16.4"
   },"engines": {
     "node": "11.0.0"
   }
